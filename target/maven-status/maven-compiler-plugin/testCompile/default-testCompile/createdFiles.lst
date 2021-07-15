@@ -1,0 +1,6 @@
+classAction\homePageTest.class
+classAction\ContextClickTest.class
+classAction\MoveToTest.class
+classAction\OpenNewPageTest.class
+classAction\DoubleClickTest.class
+classAction\DragDropTest.class
